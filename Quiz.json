@@ -1,0 +1,243 @@
+[
+    {
+        "Q1": "What is the smallest prime number?",
+        "answer1": "1",
+        "answer2": "2",
+        "answer3": "3",
+        "answer4": "5",
+        "rightAnswer": "2" 
+    },
+    {
+        "Q1": "In which year did the Titanic sink?",
+        "answer1": "1907",
+        "answer2": "1912",
+        "answer3": "1921",
+        "answer4": "1933",
+        "rightAnswer": "1912"
+    },
+    {
+        "Q1": "Which famous scientist developed the theory of general relativity?",
+        "answer1": "Isaac Newton",
+        "answer2": "Albert Einstein",
+        "answer3": "Marie Curie",
+        "answer4": "Galileo Galilei",
+        "rightAnswer": "Albert Einstein"
+    },
+    {
+        "Q1": "What is the chemical symbol for gold?",
+        "answer1": "Ag",
+        "answer2": "Au",
+        "answer3": "Fe",
+        "answer4": "Cu",
+        "rightAnswer": "Au"
+    },
+    {
+        "Q1": "What is the largest planet in our solar system?",
+        "answer1": "Mars",
+        "answer2": "Venus",
+        "answer3": "Jupiter",
+        "answer4": "Saturn",
+        "rightAnswer": "Jupiter"
+    },
+    {
+        "Q1": "What is the capital city of Saudi Arabia?",
+        "answer1": "Riyadh",
+        "answer2": "Dubai",
+        "answer3": "Cairo",
+        "answer4": "Doha",
+        "rightAnswer": "Riyadh"
+    },
+    {
+        "Q1": "Which famous medieval Muslim scholar is known for his work 'The Canon of Medicine'?",
+        "answer1": "Ibn Khaldun",
+        "answer2": "Al-Farabi",
+        "answer3": "Ibn Sina (Avicenna)",
+        "answer4": "Ibn Battuta",
+        "rightAnswer": "Ibn Sina (Avicenna)"
+    },
+    {
+        "Q1": "The ancient city of Petra, known for its rock-cut architecture, is located in which modern-day country?",
+        "answer1": "Turkey",
+        "answer2": "Egypt",
+        "answer3": "Jordan",
+        "answer4": "Iraq",
+        "rightAnswer": "Jordan"
+    },
+    {
+        "Q1": "Which Arab country is famous for its traditional dish called 'kabsa'?",
+        "answer1": "Lebanon",
+        "answer2": "Morocco",
+        "answer3": "Saudi Arabia",
+        "answer4": "Egypt",
+        "rightAnswer": "Saudi Arabia"
+    },
+    {
+        "Q1": "The Umayyad Mosque, also known as the Grand Mosque of Damascus, is one of the largest and oldest mosques in the world. In which country is it located?",
+        "answer1": "Saudi Arabia",
+        "answer2": "Egypt",
+        "answer3": "Syria",
+        "answer4": "Lebanon",
+        "rightAnswer": "Syria"
+    },
+    {
+        "Q1": "What is the largest organ in the human body?",
+        "answer1": "Heart",
+        "answer2": "Brain",
+        "answer3": "Skin",
+        "answer4": "Liver",
+        "rightAnswer": "Skin"
+    },
+    {
+        "Q1": "Who painted the Mona Lisa?",
+        "answer1": "Vincent van Gogh",
+        "answer2": "Pablo Picasso",
+        "answer3": "Leonardo da Vinci",
+        "answer4": "Michelangelo",
+        "rightAnswer": "Leonardo da Vinci"
+    },
+    {
+        "Q1": "Which gas do plants primarily release during photosynthesis?",
+        "answer1": "Oxygen",
+        "answer2": "Carbon Dioxide",
+        "answer3": "Nitrogen",
+        "answer4": "Methane",
+        "rightAnswer": "Oxygen"
+    },
+    {
+        "Q1": "Arabic numerals, the symbols commonly used in mathematics worldwide, are derived from the Indian numeral system and were introduced to Europe by Arab scholars. Which of the following is NOT an Arabic numeral?",
+        "answer1": "4",
+        "answer2": "IX",
+        "answer3": "7",
+        "answer4": "IIII",
+        "rightAnswer": "IIII"
+    },
+    {
+        "Q1": "The famous Alhambra Palace, known for its stunning architecture and intricate geometric patterns, is located in which city?",
+        "answer1": "Cairo",
+        "answer2": "Marrakech",
+        "answer3": "Granada",
+        "answer4": "Dubai",
+        "rightAnswer": "Granada"
+    },
+    {
+        "Q1": "The mathematical concept of the 'golden ratio,' often denoted by the Greek letter phi (φ), has been appreciated for its aesthetic proportions. Which ancient civilization's architecture is believed to have employed the golden ratio?",
+        "answer1": "Roman",
+        "answer2": "Greek",
+        "answer3": "Egyptian",
+        "answer4": "Babylonian",
+        "rightAnswer": "Greek"
+    },
+    {
+        "Q1": "Which Arab mathematician is known for his work 'The Book of Healing' and made significant contributions to mathematics, medicine, and philosophy?",
+        "answer1": "Ibn Khaldun",
+        "answer2": "Ibn al-Haytham",
+        "answer3": "Al-Farabi",
+        "answer4": "Ibn Rushd (Averroes)",
+        "rightAnswer": "Ibn al-Haytham"
+    },
+    {
+        "Q1": "In Arab literature, what is the 'Maqamat' style of writing associated with?",
+        "answer1": "Epic Poetry",
+        "answer2": "Prophetic Traditions (Hadith)",
+        "answer3": "Short Stories",
+        "answer4": "Rhymed Prose",
+        "rightAnswer": "Rhymed Prose"
+    },
+    {
+        "Q1": "Which Arab city served as the center of trade and scholarship during the Islamic Golden Age and is known for its House of Wisdom?",
+        "answer1": "Cairo",
+        "answer2": "Baghdad",
+        "answer3": "Cordoba",
+        "answer4": "Damascus",
+        "rightAnswer": "Baghdad"
+    },
+    {
+        "Q1": "What is the traditional Arab sword known for its distinctive curved blade?",
+        "answer1": "Zulfiqar",
+        "answer2": "Shamshir",
+        "answer3": "Scimitar",
+        "answer4": "Katana",
+        "rightAnswer": "Scimitar"
+    },
+    {
+        "Q1": "Which ancient city in Saudi Arabia was a major center of trade and is known for its well-preserved Nabatean architecture?",
+        "answer1": "Jericho",
+        "answer2": "Petra",
+        "answer3": "Persepolis",
+        "answer4": "Palmyra",
+        "rightAnswer": "Petra"
+    },
+    {
+        "Q1": "Which Arab philosopher is known for his theory of 'Existentialism' and his emphasis on individual freedom and responsibility?",
+        "answer1": "Ibn Sina (Avicenna)",
+        "answer2": "Al-Farabi",
+        "answer3": "Søren Kierkegaard",
+        "answer4": "Jean-Paul Sartre",
+        "rightAnswer": "Jean-Paul Sartre"
+    },
+    {
+        "Q1": "Which famous Arab explorer is known for his extensive travels across Asia, Africa, and Europe during the 14th century?",
+        "answer1": "Ibn Khaldun",
+        "answer2": "Al-Biruni",
+        "answer3": "Ibn Battuta",
+        "answer4": "Ibn al-Haytham",
+        "rightAnswer": "Ibn Battuta"
+    },
+    {
+        "Q1": "In Arab music, what is the 'Ney'?",
+        "answer1": "A type of percussion instrument",
+        "answer2": "A wind instrument",
+        "answer3": "A string instrument",
+        "answer4": "A vocal technique",
+        "rightAnswer": "A wind instrument"
+    },
+    {
+        "Q1": "Which ancient Arab mathematician is known for his work on number theory, including contributions to perfect numbers and amicable numbers?",
+        "answer1": "Thabit ibn Qurra",
+        "answer2": "Al-Khwarizmi",
+        "answer3": "Al-Kindi",
+        "answer4": "Al-Mahani",
+        "rightAnswer": "Thabit ibn Qurra"
+    },
+    {
+        "Q1": "Which Arab city is home to the famous Al-Qarawiyyin University, recognized as one of the oldest existing, continually operating educational institutions in the world?",
+        "answer1": "Cairo",
+        "answer2": "Fes",
+        "answer3": "Granada",
+        "answer4": "Aleppo",
+        "rightAnswer": "Fes"
+    },
+        {
+            "Q1": "What is the Riemann Hypothesis, a famous unsolved problem in mathematics, concerned with?",
+            "answer1": "Prime numbers",
+            "answer2": "Fermat's Last Theorem",
+            "answer3": "Complex numbers",
+            "answer4": "Integration techniques",
+            "rightAnswer": "Prime numbers"
+        },
+        {
+            "Q1": "What is the value of the mathematical constant e raised to the power of 0?",
+            "answer1": "1",
+            "answer2": "e",
+            "answer3": "0",
+            "answer4": "Undefined",
+            "rightAnswer": "1"
+        },
+        {
+            "Q1": "What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ... ?",
+            "answer1": "2",
+            "answer2": "1/2",
+            "answer3": "1",
+            "answer4": "Infinity",
+            "rightAnswer": "2"
+        },
+        {
+            "Q1": "What is the equation of the tangent line to the curve y = x^2 - 3x + 2 at the point where x = 2?",
+            "answer1": "y = 2x - 4",
+            "answer2": "y = 2x - 3",
+            "answer3": "y = 3x - 2",
+            "answer4": "y = 4x - 2",
+            "rightAnswer": "y = 2x - 3"
+        }
+    
+]
